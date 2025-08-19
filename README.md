@@ -35,8 +35,8 @@ Users should be able to:
 
 
 ### Links
-- Solution URL: [IP Address Tracker Solution](https://github.com/garyeung/Frontend-Mentor-Challenges/tree/master/ip-address-tracker-master)
-- Live Site URL: [IP Address Tracker Live](https://garyeung.github.io/Frontend-Mentor-Challenges/ip-address-tracker-master)
+- Solution URL: [IP Address Tracker Solution](https://github.com/garyeung/frontendmentor_IP-address-tracker)
+- Live Site URL: [IP Address Tracker Live](https://frontendmentor-ip-address-tracker-omega.vercel.app)
 
 
 ## My process
